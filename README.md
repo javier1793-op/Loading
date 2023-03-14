@@ -3,7 +3,7 @@
 
 ### Links
 
-- Solution URL: [github](https://github.com/javier1793-op/Component-qr)
+- Solution URL: [Page](https://javier1793-op.github.io/Loading/)
 
 
 ### Built with
